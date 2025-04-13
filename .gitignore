@@ -1,0 +1,20 @@
+        # .gitignore
+
+        # Python virtual environment
+        .venv/
+        __pycache__/
+        *.pyc
+        *.pyo
+        *.pyd
+
+        # Session file (KEEP THIS SECRET)
+        bot_session.session # Or your custom session name
+        *.session
+
+        # Temporary directory (if used locally)
+        temp/
+
+        # IDE / OS files
+        .idea/
+        .vscode/
+        *.DS_Store
