@@ -8,8 +8,8 @@
         *.pyd
 
         # Session file (KEEP THIS SECRET)
-        bot_session.session # Or your custom session name
-        *.session
+        # bot_session.session # Or your custom session name
+        # *.session
 
         # Temporary directory (if used locally)
         temp/
